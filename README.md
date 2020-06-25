@@ -4,6 +4,7 @@ If you are running on mac and package.json giving error then make this change.
 
 ````json
 "dev:server": "nodemon --watch build --exec \"node build/bundle.js\" ",
+````
 
 Also if package json give compatiblity issue then copy this file.
 ```json
